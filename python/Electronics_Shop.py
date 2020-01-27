@@ -3,9 +3,6 @@
 import os
 import sys
 
-#
-# Complete the getMoneySpent function below.
-#
 def getMoneySpent(keyboards, drives, b):
     ans =0
     for k_it in keyboards:
