@@ -30,3 +30,4 @@ for i in range(column):
             continue
         print(ls[j][i], end = '')
     print(end = ' ')
+    
